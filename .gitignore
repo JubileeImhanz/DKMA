@@ -2,5 +2,5 @@
 */build
 *.ipynb_checkpoints
 *.DS_Store
-Assignment 4/fashion_mnist_dataset_kaggle_test.npy
-Assignment 4/fashion_mnist_dataset_train.npy
+Assignment 4/mnist/fashion_mnist_dataset_kaggle_test.npy
+Assignment 4/mnist/fashion_mnist_dataset_train.npy
