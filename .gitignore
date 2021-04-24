@@ -2,5 +2,6 @@
 */build
 *.ipynb_checkpoints
 *.DS_Store
+*prediction.csv
 Assignment 4/mnist/fashion_mnist_dataset_kaggle_test.npy
 Assignment 4/mnist/fashion_mnist_dataset_train.npy
